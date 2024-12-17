@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 1rem;
+}
+
+label {
+  margin-right: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #e9ecef;
+}
+
+button {
+  margin-top: 0.5rem;
+  padding: 5px 10px;
+}
